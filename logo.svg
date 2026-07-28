@@ -1,0 +1,16 @@
+<svg viewBox="0 0 640 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gD" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8A6E2F"/>
+      <stop offset="45%" stop-color="#E8C97A"/>
+      <stop offset="100%" stop-color="#C9A34E"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(18,18)">
+    <circle cx="42" cy="44" r="30" fill="none" stroke="url(#gD)" stroke-width="2.6" opacity="0.92"/>
+    <circle cx="78" cy="44" r="30" fill="none" stroke="url(#gD)" stroke-width="2.6" opacity="0.92"/>
+    <circle cx="60" cy="76" r="30" fill="none" stroke="url(#gD)" stroke-width="2.6" opacity="0.92"/>
+  </g>
+  <text x="175" y="82" font-family="'Cormorant Garamond', Georgia, serif" font-weight="600" font-size="46" letter-spacing="2" fill="#F3ECDD">EXPERT TAX HUB</text>
+  <text x="177" y="110" font-family="'IBM Plex Mono', monospace" font-weight="400" font-size="13" letter-spacing="5" fill="#C9A34E">TAX &#183; LEGAL &#183; INVESTMENTS</text>
+</svg>
